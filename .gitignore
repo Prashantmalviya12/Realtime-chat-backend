@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+*.log
+serviceAccountKey.json
+
+
+# Firebase credentials
+src/config/firebase-service-account.json
+config/firebase-service-account.json
+firebase-service-account.json
